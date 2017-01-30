@@ -45,11 +45,13 @@ http://api.webhookinbox.com/i/YOUR_INBOX_ID/in/
 
 5) Add the WebhookInbox.com URL from earlier into a new webhook for your group. 
 
-*(This will add the webhook subscription for any events where the selected group is a group collaborator. This action also fires a test event to the WebhookInbox we setup earlier.)*
+> **Note:** This will add the webhook subscription for any events where the selected group is a group collaborator. This action also fires a test event to the WebhookInbox we setup earlier. 
 
 ![enter image description here](https://cdn.gosurveybot.com/Content/img/thesurveybotbunch/image05.png)
 
-6) The SurveyBot portal tells us the attempt to post to the webhook was successful
+6) The SurveyBot portal tells us the attempt to post to the webhook was successful. 
+
+> **Tip:** A click on the spinner may be required to reload the list of webhooks if the page does not auto-update itself. 
 
 ![enter image description here](https://cdn.gosurveybot.com/Content/img/thesurveybotbunch/image03.png)
 

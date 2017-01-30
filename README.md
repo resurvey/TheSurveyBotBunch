@@ -62,7 +62,7 @@ http://api.webhookinbox.com/i/YOUR_INBOX_ID/in/
 ![enter image description here](https://cdn.gosurveybot.com/Content/img/thesurveybotbunch/image06.png)
 
 9) Download “The SurveyBot Bunch” HTML file.
-https://raw.githubusercontent.com/resurvey/TheSurveyBotBunch/master/surveybotbunch.htm
+https://github.com/resurvey/TheSurveyBotBunch/blob/master/surveybotbunch.htm
 
 10) Double click top run it from your desktop.
 

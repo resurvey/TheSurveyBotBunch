@@ -61,12 +61,14 @@ http://api.webhookinbox.com/i/YOUR_INBOX_ID/in/
 
 ![enter image description here](https://cdn.gosurveybot.com/Content/img/thesurveybotbunch/image06.png)
 
-9) Download “The SurveyBot Bunch” HTML file.
+9) Download “The SurveyBot Bunch” HTML file to your desktop.
 https://github.com/resurvey/TheSurveyBotBunch/blob/master/surveybotbunch.htm
 
-10) Double click top run it from your desktop.
+10) Open the HTML file with a WebRTC capable browser (i.e Chrome or Firefox).
 
 11) Paste in your WebhookInbox Link and press the "Subscribe" button
+
+[INSERT IMAGE HERE]
 
 12) In SurveyBot, jump into a survey for this group
 

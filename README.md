@@ -62,7 +62,7 @@ http://api.webhookinbox.com/i/YOUR_INBOX_ID/in/
 ![enter image description here](https://cdn.gosurveybot.com/Content/img/thesurveybotbunch/image06.png)
 
 9) Download “The SurveyBot Bunch” HTML file to your desktop.
-https://github.com/resurvey/TheSurveyBotBunch/blob/master/surveybotbunch.htm
+https://github.com/resurvey/TheSurveyBotBunch/blob/master/surveybotbunch.htm.zip
 
 10) Open the HTML file with a WebRTC capable browser (i.e Chrome or Firefox).
 
@@ -79,5 +79,11 @@ https://github.com/resurvey/TheSurveyBotBunch/blob/master/surveybotbunch.htm
 
 > **Tip:** Check out [the SurveyBot blog](https://gosurveybot.com/blog/) for more mash-ups ideas and sample code 
 
+What Next?
+------
 
+This is a pointed example of what an organization could do with webhooks to expand what is going in in SurveyBot, with their surveys, into systems and workflow external to SurveyBot. If you were looking for suggestions on where to go from here, we might suggest the following:
 
+A) Open the HTML file and modify the javascript it to consume and drive new workflows off different events
+
+B) Combine the use of SurveyBot webhooks w/ the [SurveyBot API](https://golive.gosurveybot.com/apis).

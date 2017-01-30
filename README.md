@@ -59,7 +59,7 @@ http://api.webhookinbox.com/i/YOUR_INBOX_ID/in/
 
 ![enter image description here](https://cdn.gosurveybot.com/Content/img/thesurveybotbunch/image00.png)
 
-8) Since you are loading iframes of pages that require authentication, is it required that you open another tab and ensure you have an active login to the [SurveyBot portal](https://golive.gosurveybot.com). **This is required.** 
+8) Since you are loading HTML iframe tags of pages that require authentication, is it required that you keep another tab open that has an active login to the [SurveyBot portal](https://golive.gosurveybot.com), or that you select "remember me" when you login, thus enabling cookies to maintain your authenticated session even when tabs are closed. **This is required.** 
 
 ![enter image description here](https://cdn.gosurveybot.com/Content/img/thesurveybotbunch/image06.png)
 

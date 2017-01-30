@@ -1,7 +1,7 @@
 Build your own Brady Bunch-like Feed of Ongoing Surveys
 ===================
 
-Using [SurveyBot Webhooks](https://golive.gosurveybot.com/webhooks "SurveyBot Webhooks") you can easily enable features and integrations only limited by your imagination. This step-by-step guide shows you how you can have a Hollywood Squares like live feed of all your group's ongoing surveys, as they happen. Let’s get to mashing.
+Using [SurveyBot Webhooks](https://golive.gosurveybot.com/webhooks "SurveyBot Webhooks") you can easily enable features and integrations only limited by your imagination. This step-by-step guide shows you how you can have a Hollywood Squares-like live feed of all your group's ongoing surveys, as they happen. Let’s get to mashing.
 
 ----------
 

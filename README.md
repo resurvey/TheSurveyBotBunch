@@ -62,7 +62,7 @@ http://api.webhookinbox.com/i/YOUR_INBOX_ID/in/
 ![enter image description here](https://cdn.gosurveybot.com/Content/img/thesurveybotbunch/image06.png)
 
 9) Download “The SurveyBot Bunch” HTML file to your desktop.
-https://github.com/resurvey/TheSurveyBotBunch/blob/master/surveybotbunch.htm.zip
+https://github.com/resurvey/TheSurveyBotBunch/raw/master/surveybotbunch.htm.zip
 
 10) Open the HTML file with a WebRTC capable browser (i.e Chrome or Firefox).
 

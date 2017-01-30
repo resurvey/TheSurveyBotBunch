@@ -68,7 +68,7 @@ https://github.com/resurvey/TheSurveyBotBunch/blob/master/surveybotbunch.htm
 
 11) Paste in your WebhookInbox Link and press the "Subscribe" button
 
-[INSERT IMAGE HERE]
+![enter image description here](https://cdn.gosurveybot.com/Content/img/thesurveybotbunch/image08.png)
 
 12) In SurveyBot, jump into a survey for this group
 

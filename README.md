@@ -63,9 +63,13 @@ http://api.webhookinbox.com/i/YOUR_INBOX_ID/in/
 https://raw.githubusercontent.com/resurvey/TheSurveyBotBunch/master/thebradybunch.htm
 
 10) Double click top run it from your desktop.
+
 11) Paste in your WebhookInbox Link and press the "Subscribe" button
+
 12) In SB now jump into a survey for this group
+
 13) Did you see a new live feed appear in one the squares?
+
 14) Now have 8 more friends jump into surveys in your group, and you have a bunch.
 
 

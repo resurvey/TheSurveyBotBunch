@@ -1,7 +1,7 @@
 Build your own Brady Bunch-like Feed of Ongoing Surveys
 ===================
 
-Using [SurveyBot (SB) webhooks](https://golive.gosurveybot.com/webhooks "SurveyBot Webhooks") you can easily enable features and integrations only limited by your imagination. This step-by-step guide shows you how you can have a Hollywood Squares like live feed of all your group's ongoing surveys, as they happen. Let’s get to mashing.
+Using [SurveyBot Webhooks](https://golive.gosurveybot.com/webhooks "SurveyBot Webhooks") you can easily enable features and integrations only limited by your imagination. This step-by-step guide shows you how you can have a Hollywood Squares like live feed of all your group's ongoing surveys, as they happen. Let’s get to mashing.
 
 ----------
 
@@ -15,7 +15,7 @@ What we are building:
 Prerequisites:
 ---------
 
- - A SurveyBot (SB) account ([sign up here](https://gosurveybot.com/)) 
+ - A SurveyBot account ([sign up here](https://gosurveybot.com/)) 
 
 Services we will leverage:
 --------------------------
@@ -55,7 +55,7 @@ http://api.webhookinbox.com/i/YOUR_INBOX_ID/in/
 
 ![enter image description here](https://cdn.gosurveybot.com/Content/img/thesurveybotbunch/image00.png)
 
-8) Since you are loading iframes of pages that require authentication, is it required that you open another tab and ensure you have an active login to the SB portal.
+8) Since you are loading iframes of pages that require authentication, is it required that you open another tab and ensure you have an active login to the [SurveyBot portal](https://golive.gosurveybot.com).
 
 ![enter image description here](https://cdn.gosurveybot.com/Content/img/thesurveybotbunch/image06.png)
 
@@ -66,7 +66,7 @@ https://raw.githubusercontent.com/resurvey/TheSurveyBotBunch/master/thebradybunc
 
 11) Paste in your WebhookInbox Link and press the "Subscribe" button
 
-12) In SB now jump into a survey for this group
+12) In SurveyBot now jump into a survey for this group
 
 13) Did you see a new live feed appear in one the squares?
 

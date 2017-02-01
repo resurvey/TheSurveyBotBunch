@@ -21,7 +21,8 @@ Services we will leverage:
 --------------------------
 
  - SurveyBot Webhooks
- - [WebhookInbox](http://webhookInbox.com)
+ - [WebhookInbox](http://webhookInbox.com) "WebhookInbox receives HTTP requests and
+captures the data for later inspection."
 
 
 Steps

@@ -87,6 +87,9 @@ What Next?
 
 This is a pointed example of what an organization could do with webhooks to expand what is going on in SurveyBot, with their surveys, into systems and workflow external to SurveyBot. We could and probably will build such a feature into SurveyBot at some point, with some internal APIs and it will be sleeker, but... *this was built with tools that are available to all users*, and that is the power of webhooks were trying to convey. If you were looking for suggestions on where to go from here, we might suggest the following:
 
-A) Open the HTML file and modify the javascript it to consume and drive new workflows off different events
+A) [Open the HTML file source](https://github.com/resurvey/TheSurveyBotBunch/blob/master/surveybotbunch.htm) and modify the javascript it to consume and drive new workflows off of different events
+
+
+> **Note:** This was the original intent of the exercise, to show folks how little javascript was required, ... but it was hard to not just start making it into a copy and paste solution. Because it was fun to do so, and because there are a demographic of non-developers we wanted to speak to as well. 
 
 B) Combine the use of SurveyBot webhooks w/ the [SurveyBot API](https://golive.gosurveybot.com/apis).

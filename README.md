@@ -75,7 +75,7 @@ https://github.com/resurvey/TheSurveyBotBunch/archive/master.zip
 
 12) In SurveyBot, jump into a survey for this group
 
-13) Did you see a new live feed appear in one the squares? *Should appear in less than a minute.*
+13) Did you see a new live feed appear in one of the squares? *Should appear in less than a minute.*
 
 14) Now have 8 more friends jump into surveys in your group, and you have a bunch.
 

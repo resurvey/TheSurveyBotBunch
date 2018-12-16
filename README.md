@@ -40,7 +40,7 @@ http://webhookinbox.com/view/YOUR_INBOX_ID/
 3) Copy the URL provided:
 http://api.webhookinbox.com/i/YOUR_INBOX_ID/in/
 
-4) Login to the Shyft, and navigate to the [webhooks page](https://golive.gosurveybot.com/webhooks)
+4) Login to the Shyft, and navigate to the [webhooks page](https://go.shyftmoving.com/webhooks)
 
 ![enter image description here](https://cdn.gosurveybot.com/Content/img/thesurveybotbunch/image01.png)
 
@@ -60,7 +60,7 @@ http://api.webhookinbox.com/i/YOUR_INBOX_ID/in/
 
 ![enter image description here](https://cdn.gosurveybot.com/Content/img/thesurveybotbunch/image00.png)
 
-8) Since you are loading HTML iframe tags of pages that require authentication, it is required that you keep another tab open that has an active login to the [Shyft portal](https://golive.gosurveybot.com), or that you select "remember me" when you login, thus enabling cookies to maintain your authenticated session even when tabs are closed. **This is required.** 
+8) Since you are loading HTML iframe tags of pages that require authentication, it is required that you keep another tab open that has an active login to the [Shyft portal](https://go.shyftmoving.com/), or that you select "remember me" when you login, thus enabling cookies to maintain your authenticated session even when tabs are closed. **This is required.** 
 
 ![enter image description here](https://cdn.gosurveybot.com/Content/img/thesurveybotbunch/image06.png)
 
@@ -80,7 +80,7 @@ https://github.com/resurvey/TheSurveyBotBunch/archive/master.zip
 14) Now have 8 more friends jump into surveys in your group, and you have a bunch.
 
 
-> **Tip:** Check out [the Shyft blog](https://gosurveybot.com/blog/) for more mash-ups ideas and sample code 
+> **Tip:** Check out [the Shyft blog](https://shyftmoving.com/blog/) for more mash-ups ideas and sample code 
 
 What Next?
 ------
@@ -92,4 +92,4 @@ A) [Open the HTML file source](https://github.com/resurvey/TheSurveyBotBunch/blo
 
 > **Note:** This was the original intent of the exercise, to show folks how little javascript was required, ... but it was hard to not just start making it into a copy and paste solution. Because it was fun to do so, and because there are a demographic of non-developers we wanted to speak to as well. 
 
-B) Combine the use of Shyft webhooks w/ the [Shyft API](https://golive.gosurveybot.com/apis).
+B) Combine the use of Shyft webhooks w/ the [Shyft API](https://go.shyftmoving.com/apis).
